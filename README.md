@@ -2,7 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Webssite Contents
 
-hello my name is Amit Sharma.
-I love playing cricket.
+1. index.html
